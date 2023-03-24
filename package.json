@@ -39,7 +39,7 @@
     "test": "yarn jest"
   },
   "dependencies": {
-    "axios": "^0.26.0",
+    "axios": "^1.3.4",
     "colorette": "^2.0.16",
     "consola": "^2.15.3"
   },
